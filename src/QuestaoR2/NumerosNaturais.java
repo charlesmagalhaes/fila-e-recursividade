@@ -14,7 +14,12 @@ public class NumerosNaturais {
 		this.n = n;
 	}
 	
-	public String exibirNumNaturais() {
+	public void exibirNumNaturais(int n) {
+		
+		if (n > 0) {
+			exibirNumNaturais(n-1);
+		}
+		System.out.println(n);
 		
 	}
 	
