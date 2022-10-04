@@ -5,7 +5,7 @@ public class aplicacao {
 	public static void main(String[] args) {
 		NumerosNaturais fnNumerosNaturais = new NumerosNaturais();
 		
-		fnNumerosNaturais.exibirNumNaturais(9);
+		fnNumerosNaturais.exibirNumNaturais(15);
 		
 
 	}
