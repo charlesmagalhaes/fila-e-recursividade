@@ -31,7 +31,7 @@ public class Pontencial {
 	
 	
 	public int calculoPontencia(int base, int expoente ) {
-		if(expoente == 1) {
+		if(expoente == 0) {
 			return 1;
 		}else {
 			
