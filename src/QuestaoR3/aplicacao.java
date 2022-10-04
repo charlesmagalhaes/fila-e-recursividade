@@ -9,7 +9,7 @@ public class aplicacao {
 		Pontencial calculo = new Pontencial();
 		
 		
-		System.out.println("Cálculo de pontecia"); 
+		System.out.println("Cálculo de pontêcia"); 
 		System.out.print("Digite a base para fazer o cálculo: ");
 		int base = ler.nextInt();
 		System.out.print("Digite o expoente para fazer o cálculo: ");
